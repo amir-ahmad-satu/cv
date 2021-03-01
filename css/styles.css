@@ -83,9 +83,9 @@ hr {
 }
 
 .bottom-cloud {
-  position: absolute;
-  left: 250px;
-  bottom: 400px;
+  position: relative;
+  left: 10px;
+  bottom: 500px;
 }
 
 .skill-row {

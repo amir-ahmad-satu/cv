@@ -115,6 +115,7 @@ hr {
 
 .copyright {
   padding: 20px 0;
+  font-size: 12px;
 }
 .contact-btn {
    background: #11CDD4;
@@ -151,4 +152,8 @@ hr {
    -moz-border-radius: 8px;
    border-radius: 8px;
    text-decoration: none;
+}
+
+.attribution {
+  font-size: 10px;
 }
